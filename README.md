@@ -1,8 +1,1 @@
-Hi, I’m Ali Hashhash
-I’m interested in data science, machine learning, and software engineering.
-I’m currently learning advanced techniques in predictive modeling and optimizing real-world machine learning workflows.
-I’m looking to collaborate on impactful projects that combine data analysis, AI, and software engineering to solve real-world problems.
-How to reach me: LinkedIn | Email.
-Pronouns: She/Her (adjust if needed).
-Fun fact: I love diving into competitive programming challenges—it’s like solving puzzles for fun and skill!
-<!--- ALIADE1/ALIADE1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
+As a Data Scientist and Software Engineering Enthusiast, I am passionate about using data to drive insights and innovation. With a solid foundation in data science and software engineering, I thrive on solving complex problems and continuously expanding my expertise. My competitive programming background has honed my analytical abilities, reinforcing my commitment to real-world applications and impactful collaboration. I am motivated to contribute to projects that leverage data science and engineering to create meaningful change.
