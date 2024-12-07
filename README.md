@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliade1&label=Profile%20views&color=0e75b6&style=flat" alt="aliade1" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/ALIADE1](https://github.com/ALIADE1)
 
 - 💬 Ask me about **Data Science, Software Engineering, Competitive Programming.**
 
