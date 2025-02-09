@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ali Hashhash</h1>
+<h1 align="center">Hi, I'm Ali Hashhash</h1>
 <h3 align="center">I am passionate about using data to drive insights and innovation. With a solid foundation in data science and software engineering, I thrive on solving complex problems and continuously expanding my expertise. My background in competitive programming has sharpened my analytical abilities, reinforcing my commitment to real-world applications and impactful collaboration. I am motivated to contribute to projects that leverage data science and engineering to create meaningful change.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliade1&label=Profile%20views&color=0e75b6&style=flat" alt="aliade1" /> </p>
