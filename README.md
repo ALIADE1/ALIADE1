@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliade1&label=Profile%20views&color=0e75b6&style=flat" alt="aliade1" /> </p>
 
 
-- 💬 Ask me about **Data Science, Software Engineering, Competitive Programming.**
+- 💬 Ask me about **Data Science, Software Engineering, Data Analysis.**
 
 - 📫 How to reach me **ali1adel7ai8@gmail.com**
 
