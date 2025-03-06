@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali Hashhash</h1>
-<h3 align="center">I am passionate about using data to drive insights and innovation. With a solid foundation in data science and software engineering, I thrive on solving complex problems and continuously expanding my expertise. My background in competitive programming has sharpened my analytical abilities, reinforcing my commitment to real-world applications and impactful collaboration. I am motivated to contribute to projects that leverage data science and engineering to create meaningful change.</h3>
+<h3 align="center">As a Data Scientist, ML Engineer, and Software Engineering Enthusiast, I am passionate about transforming data into actionable insights and driving innovation. With a strong foundation in data science and software engineering, I excel at tackling complex challenges and continuously expanding my knowledge. My experience in competitive programming has sharpened my analytical skills, enabling me to approach problem-solving with precision and efficiency. Committed to lifelong learning and impactful collaboration, I strive to contribute to projects that harness the power of data science and engineering to create meaningful solutions.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliade1&label=Profile%20views&color=0e75b6&style=flat" alt="aliade1" /> </p>
 
