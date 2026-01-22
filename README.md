@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Ali Hashhash</h1>
-<h3 align="">Data scientist building intelligent systems at the confluence of ML, analytics, and engineering. I operationalize the cutting edge, from generative AI and RAG to autonomous agents, creating tools that are both decisive and adaptive.</h3>
+<h3 align="">Data scientist building intelligent systems at the confluence of Machine learning, analytics, and engineering. I operationalize the cutting edge, from generative AI and RAG to autonomous agents, creating tools that are both decisive and adaptive.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliade1&label=Profile%20views&color=0e75b6&style=flat" alt="aliade1" /> </p>
 
