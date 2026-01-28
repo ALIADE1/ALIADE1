@@ -1,7 +1,10 @@
 <h1 align="center">Hi, I'm Ali Hashhash</h1>
-<h3 align="">Data Scientist solving problems through system design.
-Uniting machine learning, analytics, and engineering.
-I turn advanced concepts like generative AI, RAG, and autonomous agents into practical, adaptive tools.</h3>
+<h3 align="">
+Data Scientist solving problems through system design.<br>
+Uniting machine learning, analytics, and engineering.<br>
+I turn advanced concepts like generative AI, RAG, and autonomous agents into practical, adaptive tools.
+</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliade1&label=Profile%20views&color=0e75b6&style=flat" alt="aliade1" /> </p>
 
