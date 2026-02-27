@@ -1,8 +1,6 @@
 <h1 align="center">Hi, I'm Ali Hashhash</h1>
 <h3 align="">
-Data Scientist solving problems through system design.<br>
-Uniting machine learning, analytics, and engineering.<br>
-I turn advanced concepts like generative AI, RAG, and autonomous agents into practical, adaptive tools.
+Data Scientist solving problems through system design by uniting machine learning, analytics, and engineering. I turn advanced concepts like generative AI, RAG, and autonomous agents into practical and adaptive tools. My focus is on bridging the gap between theoretical models and scalable applications that deliver real impact.
 </h3>
 
 
