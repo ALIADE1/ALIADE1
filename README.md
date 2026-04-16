@@ -2,8 +2,6 @@
 
 # Hi, I'm Ali Hashhash
 
-### Data Scientist
-
 I solve problems through system design by uniting machine learning, analytics, and engineering. I turn advanced concepts like **Generative AI, RAG, and Autonomous Agents** into practical and adaptive tools. My focus is on bridging the gap between theoretical models and scalable applications that deliver real impact.
 
 <img src="https://komarev.com/ghpvc/?username=aliade1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
