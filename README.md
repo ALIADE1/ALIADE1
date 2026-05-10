@@ -24,9 +24,3 @@ Data Scientist with a strong academic background in Artificial Intelligence and 
 
 </div>
 
----
-
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aliade1&show_icons=true&theme=transparent&hide_border=true" alt="Ali's GitHub Stats" />
-</div>
