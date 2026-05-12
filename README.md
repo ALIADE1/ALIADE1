@@ -7,6 +7,7 @@ Data Scientist with a strong academic background in Artificial Intelligence and 
 
 
 <img src="https://komarev.com/ghpvc/?username=aliade1&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+<br>
 
 📫 **Reach me at:** [ali1adel7ai8@gmail.com](mailto:ali1adel7ai8@gmail.com)
 
