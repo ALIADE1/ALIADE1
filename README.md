@@ -2,7 +2,7 @@
 
 # Hi, I'm Ali Hashhash
 
-Data Scientist with a strong academic background in Artificial Intelligence and Data Science. I specialize in developing impactful solutions through advanced analytical methodologies and machine learning techniques. My experience includes building end-to-end AI applications, ranging from research based tools to practical technical implementations. I possess a solid foundation in deep learning and data analysis, with a proven ability to tackle complex challenges and deliver scalable, data-driven results.
+Data Scientist with a strong academic background in Artificial Intelligence and Data Science. I specialize in developing impactful solutions through advanced analytical methodologies and machine learning techniques. My experience includes building AI applications, ranging from research based tools to practical technical implementations. I possess a solid foundation in deep learning and data analysis, with a proven ability to tackle complex challenges and deliver scalable, data-driven results.
 
 
 
